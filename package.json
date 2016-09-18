@@ -1,0 +1,29 @@
+{ "name": "funcstr-short",
+  "version": "0.0.1",
+  "description": "Describe a function with a one-line, rather short string.",
+  "keywords": [
+    "concise",
+    "describe",
+    "function",
+    "short",
+    "string",
+    "toString"
+  ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/funcstr-short-js#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/funcstr-short-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/funcstr-short-js/issues"
+  },
+
+  "private": false, "license": "ISC",
+
+  "main": "funcstr-short.js",
+  "scripts": { "test": "nodejs test.js" },
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
